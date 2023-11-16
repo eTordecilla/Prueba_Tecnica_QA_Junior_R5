@@ -23,8 +23,6 @@ Sigue los siguientes pasos para ejecutar este proyecto en tu entorno local.
 
 1. [Python](https://www.python.org/) - Asegúrate de tener Python instalado, que incluye pip para administrar las dependencias del proyecto.
 
-2. [Git](https://git-scm.com/) - Necesitarás Git para clonar el repositorio.
-
 ## Pasos para ejecutar el proyecto
 
 ````
