@@ -1,5 +1,6 @@
 # Prueba_Tecnica_QA_Junior_R5
 Prueba tecnica QA Junior Grupo R5
+Dentro del documento Escenarios de pruebas.xlsx se encuentran los escenarios de pruebas planteados bajo la estrategía de realizar pruebas exploratorias, pruebas de humo, pruebas de caja negra y pruebas de funcionalidad
 
 Para el reporte de bugs se utilizó la herramienta JIRA y se comparte el tablero al usuario javier.morales@grupor5.com 
 Tablero: https://elkin-tordecilla.atlassian.net/jira/software/projects/GRUPOR5/boards/1
